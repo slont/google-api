@@ -1,0 +1,11 @@
+{
+    "db.name": "hoge",
+    "service.account.email": "サービスアカウントのメールアドレス",
+    "service.account.email": "hoge@hoge",
+    "service.account.secret": "サービスアカウントの秘密鍵のファイル名",
+    "service.account.secret": "/hoge/xxx.json",
+    "profile.id": "AnalyticsのビューID",
+    "profile.id": "ga:xxxxxxxxx",
+    "scopes": "スコープ",
+    "scopes": ["https://www.googleapis.com/auth/analytics.readonly"]
+}
